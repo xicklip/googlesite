@@ -1,0 +1,51 @@
+body > header{
+    text-align: center;
+}
+
+#gray{
+    background-color: whitesmoke;
+    width: 1817px;
+    height: 80px;
+    margin-left: 30px;
+}
+
+.ortala{
+    text-align: center;
+    
+}
+#text{
+    width: 400px;
+    margin-left: 763px;
+}
+.google{
+    margin-left: 855px;
+}
+.th1{
+    background-color: aquamarine;
+    width: 797px;
+    height: 90px;
+    margin-left: 28px;
+    position: fixed;
+    text-align: center;
+
+}
+.th2{
+    background-color: mediumaquamarine ;
+    position: fixed;
+    width: 240px;
+    height: 90px;
+    margin-left: 830px;
+    font-size: 13px ;
+    
+}
+.th3{
+    background-color: cadetblue;
+    width: 800px;
+    height: 90px;
+    position: fixed;
+    margin-left: 1075px;
+    font-weight: lighter;
+}
+#email{
+    width: 180px;
+}
