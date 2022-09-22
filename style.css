@@ -23,7 +23,7 @@ body > header{
 .th1{
     background-color: aquamarine;
     width: 797px;
-    height: 90px;
+    height: 95px;
     margin-left: 28px;
     position: fixed;
     text-align: center;
@@ -33,7 +33,7 @@ body > header{
     background-color: mediumaquamarine ;
     position: fixed;
     width: 240px;
-    height: 90px;
+    height: 95px;
     margin-left: 830px;
     font-size: 13px ;
     
@@ -41,7 +41,7 @@ body > header{
 .th3{
     background-color: cadetblue;
     width: 800px;
-    height: 90px;
+    height: 95px;
     position: fixed;
     margin-left: 1075px;
     font-weight: lighter;
